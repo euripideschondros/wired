@@ -1,0 +1,2 @@
+# wired
+Game in C
